@@ -25,7 +25,7 @@
     "azure-blob-storage": "^4.1.0",
     "azure-entities": "^5.2.0",
     "azure-storage": "^2.10.2",
-    "body-parser": "1.18.3",
+    "body-parser": "1.19.0",
     "body-parser-graphql": "^1.0.0",
     "chalk": "^2.4.2",
     "compression": "^1.7.2",
